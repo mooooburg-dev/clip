@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Jekyll Gitbook Theme
+title: articles for developer
 permalink: /
 ---
 
-Make Jelly site have a GitBook look!
+Makes a better mind than before.
 
 ## Demo
 
