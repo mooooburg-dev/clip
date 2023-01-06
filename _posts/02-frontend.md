@@ -1,0 +1,62 @@
+---
+title: 프론트엔드
+author: mooburg
+date: 2023-01-06
+category: frontend
+layout: post
+---
+
+## Javascript
+[(번역) 네 시대의 자바스크립트 프레임워크](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EB%84%A4-%EC%8B%9C%EB%8C%80%EC%9D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-1f075bac9995)  
+[var가 let보다 빠르다?](https://blinders.tistory.com/101)  
+[ES6 이후의 변경점 총정리](https://teamdable.github.io/techblog/after-es6)  
+[[웹 프론트엔드 인터뷰] ##1.자바스크립트 엔진은 어떻게 동작하나요?](https://devowen.com/398)  
+[누가 자바스크립트를 파괴할 수 있을까?](https://pawsong.medium.com/%EB%88%84%EA%B0%80-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A5%BC-%ED%8C%8C%EA%B4%B4%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-bf22cab6d155)  
+['자바스크립트는 왜 이모양인가' 읽기](https://rinae.dev/posts/how-javascript-works-summary)  
+[실용주의 프런트 엔드 개발](https://peter-cho.gitbook.io/book/)
+
+## Typescript
+[How Typescript Works](https://velog.io/@bathingape/How-Typescript-Works)  
+[TypeScript Handbook 한글 번역본](https://vriz.notion.site/TypeScript-Handbook-45b1bc86f2ed4886b393a5586fcf2a31)  
+## React  
+[[React] Controlled vs Uncontrolled](https://mygumi.tistory.com/419)  
+[React Query 실무 도입](https://hong-jh.tistory.com/entry/React-Query-%EC%8B%A4%EB%AC%B4-%EB%8F%84%EC%9E%85)
+[[번역] useEvent 리액트 훅이란 (또 무엇이 아닌지)](https://velog.io/@eunbinn/what-the-useevent-react-hook-is-and-isnt)  
+[React 개발 환경 구축하며 알게된 것들](https://maxkim-j.github.io/posts/frontend-tooling-ideas)  
+[React의 모범 사례](https://kyuhyuk.kr/article/react/2021/10/04/React-Best-Practice)  
+[React에서 Mobx 경험기 (Redux와 비교기)](https://techblog.woowahan.com/2599/)  
+[리액트 실력을 일취월장 하는 법](https://brunch.co.kr/@skykamja24/606?fbclid=IwAR22yuTOMyxkQE1MX-3QTFw9ZEIsd_1SVz0S09JsNn2XaUF0cCdNHczw2dY)  
+[React Router dom의 유용한 hooks들](https://velog.io/@yiyb0603/React-Router-dom%EC%9D%98-%EC%9C%A0%EC%9A%A9%ED%95%9C-hooks%EB%93%A4)  
+[React: ##1 React의 탄생배경과 특징](https://medium.com/@RianCommunity/react%EC%9D%98-%ED%83%84%EC%83%9D%EB%B0%B0%EA%B2%BD%EA%B3%BC-%ED%8A%B9%EC%A7%95-4190d47a28f)  
+[[번역] useEffect 완벽 가이드](https://rinae.dev/posts/a-complete-guide-to-useeffect-ko##%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%97%90%EA%B2%8C-%EC%9D%B4%ED%8E%99%ED%8A%B8%EB%A5%BC-%EB%B9%84%EA%B5%90%ED%95%98%EB%8A%94-%EB%B2%95%EC%9D%84-%EA%B0%80%EB%A5%B4%EC%B9%98%EA%B8%B0)  
+[가장 현대적인 웹을 만들자 1편 (Node.js, React)](https://medium.com/@kiyeopyang/%EA%B0%80%EC%9E%A5-%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8-%EC%9B%B9%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%9E%90-1%ED%8E%B8-node-js-react-73d8ad4ed9b8)  
+[React.js 소개 및 맛보기](https://velopert.com/775)  
+[React.js로 시작하는 멀티플랫폼 개발하기 [슬라이드]](https://www.slideshare.net/taggon/reactjs-55995670)  
+[카카오페이지 웹 React 포팅 후기](https://ljs0705.medium.com/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%9B%B9-react-%ED%8F%AC%ED%8C%85-%ED%9B%84%EA%B8%B0-76402cc5e031)  
+[왜 React와 서버 사이드 렌더링인가?](https://subicura.com/2016/06/20/server-side-rendering-with-react.html)
+
+## Next.js
+[Next.js 13에서 웹 폰트 최적화](https://dev-boku.tistory.com/entry/Nextjs-13%EC%97%90%EC%84%9C-%EC%9B%B9-%ED%8F%B0%ED%8A%B8-%EC%B5%9C%EC%A0%81%ED%99%94)
+
+## Vue
+[Vue 3.2 릴리즈](https://news.hada.io/topic?id=4796&utm_source=slack&utm_medium=bot&utm_campaign=T019N988A7R)  
+
+## 프론트엔드 기타 
+[[번역] 프론트엔드 렌더링: SSG vs ISG vs SSR vs CSR - 언제 어떤 것을 사용해야 할까요?](https://velog.io/@cookie004/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%A0%8C%EB%8D%94%EB%A7%81-SSG-vs-ISG-vs-SSR-vs-CSR-%EC%96%B8%EC%A0%9C-%EC%96%B4%EB%96%A4-%EA%B2%83%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C%EC%9A%94)  
+[[번역] 모든 개발자가 알아야 하는 61가지 프론트엔드 웹 개발 트렌드 용어](https://velog.io/@cookie004/61-frontend-web-development-buzz-words)  
+[이미지 최적화에 대한 명확한 가이드](https://velog.io/@sehyunny/the-definitive-guide-to-image-optimization)  
+[당신은 UI 프레임워크가 필요하지 않습니다](https://doong-jo.github.io/posts/you_dont_need_a_ui_framework/)  
+[스토리북 제대로 활용하기](https://velog.io/@devstone/%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B6%81-%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0)  
+[Redux](https://velog.io/@kyj2471/Redux)  
+[바벨(Babel)](https://velog.io/@kyj2471/%EB%B0%94%EB%B2%A8-Babel)  
+[[번역] 탁월한 프론트엔드 엔지니어가 되는 법](https://hyunseob.github.io/2016/02/21/how-to-become-a-great-frontend-engineer/)  
+[프론트엔드 테스트의 모든 것](https://medium.com/wantedjobs/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83-48912486f72d)  
+[Favicon 42만개를 분석해봤어요](https://news.hada.io/topic?id=5236&utm_source=slack&utm_medium=bot&utm_campaign=T019N988A7R)  
+[테스트란?](https://velog.io/@jangwonyoon/%ED%85%8C%EC%8A%A4%ED%8A%B8)  
+[[프론트엔드 서버] Amazon S3 + CloudFront에 대해](https://jayprogram.tistory.com/90)  
+[[Next.js] AWS S3를 통한 정적 웹사이트 배포 및 GitHub Actions를 통한 CI/CD](https://weekwith.tistory.com/entry/Nextjs-AWS-S3%EB%A5%BC-%ED%86%B5%ED%95%9C-%EC%A0%95%EC%A0%81-%EC%9B%B9-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%B0%ED%8F%AC-%EB%B0%8F-GitHub-Actions%E1%84%85%E1%85%B3%E1%86%AF-%E1%84%90%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB-CICD?fbclid=IwAR1koGlapqUHnbGyxTYVbYNV8NL-WjrJOEAps_4R8P3JkfDF4sKsj8nROBQ)  
+[null 떠나고 만난 undefined](https://blog.shiren.dev/2021-10-05/)  
+[웹팩(Webpack) 20분 컷](https://www.youtube.com/watch?v=pjbwXsEdrfo)  
+[웹폰트 최적화 하기](https://velog.io/@vnthf/%EC%9B%B9%ED%8F%B0%ED%8A%B8-%EC%B5%9C%EC%A0%81%ED%99%94-%ED%95%98%EA%B8%B0)  
+[Webpack? 참 쉽죠?](https://velog.io/@minsgy/week3-%EC%9B%B9-%ED%8C%A9-%EC%B0%B8-%EC%89%BD%EC%A3%A0)  
+[스토리북에 대하여](https://robertjune.medium.com/storybook-designsystem-154431170b55)  
