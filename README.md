@@ -1,6 +1,6 @@
 ---
 layout: home
-title: articles for developer
+title: Articles for developer
 permalink: /
 ---
 
