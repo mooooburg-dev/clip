@@ -36,7 +36,8 @@ $ yarn start
 #### 10. 강의 소개
 #### 11. 강의 자료, 코드 스냅샷 & 사용 방법
 - [Github](https://github.com/academind/react-native-practical-guide-code)
----
+
+---  
 ## 섹션2: React Native의 기초 [강의 목표 앱]
 #### 12. 모듈 개요
 - The Basics
