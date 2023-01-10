@@ -20,19 +20,25 @@ layout: post
   - 프로젝트 생성
   ```bash
   $ expo init RNCourse
-  ```
+  ```  
+
 #### 7. 생성된 프로젝트 분석하기
 - app.json - 설정 파일
 - App.js - 실행 파일
+
 #### 8. 첫 번째 앱을 실제 기기에서 실행해 봅시다!
 ```bash
 $ yarn start
 ```
 - 디바이스에서 Expo 앱 실행
 - 화면 확인!
+
 #### 9. 로컬 개발 환경 설정하기
 - Android: [android studio](https://developer.android.com/studio?gclid=Cj0KCQiA1ZGcBhCoARIsAGQ0kkqH8-f8wus-g0ifm-Pgvv37pQnv4VQX25AhEGuNlayKq1_Q3nU2MfIaAlMkEALw_wcB&gclsrc=aw.ds) 실행 방법 설명 (android 시뮬레이터)
 - iOS: Xcode 설치 및 시뮬레이터 실행 방법 설명
+
 #### 10. 강의 소개
+
 #### 11. 강의 자료, 코드 스냅샷 & 사용 방법
 - [Github](https://github.com/academind/react-native-practical-guide-code)
+
