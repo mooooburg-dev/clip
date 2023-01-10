@@ -13,14 +13,14 @@ layout: post
 #### 4. React Native의 내부 살펴보기
 #### 5. React Native 프로젝트 생성하기: Expo CLI vs React Native CLI
 #### 6. 새로운 React Native 프로젝트 생성하기
-- expo-cli 설치
-```bash
-$ sudo npm install -g expo-cli
-```
-- 프로젝트 생성
-```bash
-$ expo init RNCourse
-```
+  - expo-cli 설치
+  ```bash
+  $ sudo npm install -g expo-cli
+  ```
+  - 프로젝트 생성
+  ```bash
+  $ expo init RNCourse
+  ```
 #### 7. 생성된 프로젝트 분석하기
 - app.json - 설정 파일
 - App.js - 실행 파일
