@@ -78,3 +78,5 @@ $ yarn start
 #### 29. “Goal Input” 컴포넌트로 작업하기
 #### 30. Pressable 컴포넌트로 누르는 이벤트 처리하기
 - `click`과 같은 이벤트는 `Pressable` 컴포넌트로 감싼 뒤 `onPress` 속성에 함수를 넣어 실행.
+#### 31. 아이템 삭제할 수 있게 만들기 & ID 사용하기
+- `array filter` 활용하기
