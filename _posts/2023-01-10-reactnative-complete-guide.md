@@ -80,3 +80,7 @@ $ yarn start
 - `click`과 같은 이벤트는 `Pressable` 컴포넌트로 감싼 뒤 `onPress` 속성에 함수를 넣어 실행.
 #### 31. 아이템 삭제할 수 있게 만들기 & ID 사용하기
 - `array filter` 활용하기
+#### 32. Android 물결 효과 추가하기 & iOS 대안
+- Pressable 컴포넌트의 android_ripple 속성을 가지고 사라지는 애니메이션 구현
+- iOS의 경우 *style*={({ pressed }) => pressed && *styles.*pressedItem} 코드 활용  
+
