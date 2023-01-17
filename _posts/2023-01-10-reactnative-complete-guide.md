@@ -21,18 +21,22 @@ $ sudo npm install -g expo-cli
 ```bash
 $ expo init RNCourse
 ```  
+
 #### 7. 생성된 프로젝트 분석하기
 - app.json - 설정 파일
 - App.js - 실행 파일
+
 #### 8. 첫 번째 앱을 실제 기기에서 실행해 봅시다!
 ```bash
 $ yarn start
 ```
 - 디바이스에서 Expo 앱 실행
 - 화면 확인!
+
 #### 9. 로컬 개발 환경 설정하기
 - Android: [android studio](https://developer.android.com/studio?gclid=Cj0KCQiA1ZGcBhCoARIsAGQ0kkqH8-f8wus-g0ifm-Pgvv37pQnv4VQX25AhEGuNlayKq1_Q3nU2MfIaAlMkEALw_wcB&gclsrc=aw.ds) 실행 방법 설명 (android 시뮬레이터)
 - iOS: Xcode 설치 및 시뮬레이터 실행 방법 설명
+
 #### 10. 강의 소개
 #### 11. 강의 자료, 코드 스냅샷 & 사용 방법
 - [Github](https://github.com/academind/react-native-practical-guide-code)
@@ -66,22 +70,28 @@ $ yarn start
 - 이벤트 처리 방식은 웹 앱에서 사용하는 방식과 똑같다.
 - Button: onClick(X) / onPress(O)
   - 모바일에서는 탭(Tap) 하거나 누른다(Press)  
+
 #### 23. (데모 앱 내에서) 강의 목표 리스트 관리하기  
 #### 24. iOS & Android 스타일링의 차이점  
 - 웹용 CSS와 달리 RN의 스타일은 연속적으로 적용되지 않는다.  
+
 #### 25. `ScrollView`를 통해 콘텐츠를 스크롤 할 수 있도록 만들기  
 #### 26. `FlatList`를 통해 리스트 최적화하기  
 - ScrollView를 스크롤 할 때 마다 안에 있는 항목을 전부 렌더링한다. 현재 화면에서 보이지 않더라도 화면 뒤에서 계속 렌더링 된다. 성능 이슈.  
 - 이럴 때는 FlatList 컴포넌트를 사용한다. 보이는 항목만 렌더링 하고 화면 밖은 사용자의 스크롤이 있을 경우에만 렌더링한다.  
+
 #### 27. 컴포넌트를 작은 컴포넌트로 쪼개기  
 #### 28. 프로퍼티 활용하기  
 #### 29. “Goal Input” 컴포넌트로 작업하기  
 #### 30. Pressable 컴포넌트로 누르는 이벤트 처리하기  
 - `click`과 같은 이벤트는 `Pressable` 컴포넌트로 감싼 뒤 `onPress` 속성에 함수를 넣어 실행.  
+
 #### 31. 아이템 삭제할 수 있게 만들기 & ID 사용하기
 - `array filter` 활용하기  
+
 #### 32. Android 물결 효과 추가하기 & iOS 대안
 - Pressable 컴포넌트의 android_ripple 속성을 가지고 사라지는 애니메이션 구현  
 - iOS의 경우 *style*={({ pressed }) => pressed && *styles.*pressedItem} 코드 활용  
+
 #### 33. 모달 화면 추가하기
 - `Modal` 컴포넌트 활용과 `animationType` 속성으로 부드럽게 애니메이션 효과 적용 가능
