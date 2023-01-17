@@ -83,4 +83,5 @@ $ yarn start
 #### 32. Android 물결 효과 추가하기 & iOS 대안
 - Pressable 컴포넌트의 android_ripple 속성을 가지고 사라지는 애니메이션 구현
 - iOS의 경우 *style*={({ pressed }) => pressed && *styles.*pressedItem} 코드 활용  
-
+#### 33. 모달 화면 추가하기
+- `Modal` 컴포넌트 활용과 `animationType` 속성으로 부드럽게 애니메이션 효과 적용 가능
