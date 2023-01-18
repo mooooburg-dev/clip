@@ -94,4 +94,7 @@ $ yarn start
 - iOS의 경우 *style*={({ pressed }) => pressed && *styles.*pressedItem} 코드 활용  
 
 #### 33. 모달 화면 추가하기
-- `Modal` 컴포넌트 활용과 `animationType` 속성으로 부드럽게 애니메이션 효과 적용 가능
+- `Modal` 컴포넌트 활용과 `animationType` 속성으로 부드럽게 애니메이션 효과 적용 가능  
+
+#### 34. 모달 오버레이 스타일링 하기
+- `View` 컴포넌트에서 `flex` 속성을 활용하여 레이아웃을 잡는다.
