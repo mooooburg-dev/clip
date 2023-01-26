@@ -102,4 +102,12 @@ $ yarn start
 #### 35. 모달 열기 & 닫기
 #### 36. 이미지로 작업하기 & 색상 편집하기
 - `Image` 컴포넌트로 이미지를 추가한다.
-  - `<Image source={require('../assets/images/goal.png')}/>`  
+  - `<Image source={require('../assets/images/goal.png')}/>`    
+
+#### 37. 앱 최종 마무리
+- `app.json` 파일에서 전체 설정을 할 수 있다.
+  - e.g. `backgroundColor` 적용 (앱 전체 배경 색상 설정)
+- `StatusBar` 컴포넌트를 활용해서 상태 표시줄의 모양새를 설정할 수 있다.
+  - App.js에서 `<StatusBar style="light"/>` 와 같은 방법으로 컬러를 설정할 수 있음.  
+
+
