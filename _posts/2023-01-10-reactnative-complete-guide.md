@@ -127,3 +127,7 @@ $ yarn start
 - `sudo npm install -g react-devtools` 으로 React 개발자 도구의 독립된 버전을 얻을 수 있다.  
 - `react-devtools` 명령어로 실행하면 다음과 같은 개발자 창이 열린다. menu에서 `Debug Remote JS`를 실행하면 연결이 된다.  
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6c7dfd26-91ec-40cd-9621-cb4768334d30/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230131%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230131T063720Z&X-Amz-Expires=86400&X-Amz-Signature=4254c0ddc2999d4bf91bcafdece13724bcad110b8a9140c970cfaae20e6b67e2&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)  
+
+#### 44. 문서 사용하기
+- https://reactnative.dev/docs/debugging  
+
