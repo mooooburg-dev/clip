@@ -131,3 +131,6 @@ $ yarn start
 #### 44. 문서 사용하기
 - https://reactnative.dev/docs/debugging  
 
+## 섹션4: 컴포넌트, 레이아웃 & 스타일링 자세히 살펴보기 - 미니 게임 웹 구축하기
+#### 45. 모듈 개요 & 구축 계획
+
