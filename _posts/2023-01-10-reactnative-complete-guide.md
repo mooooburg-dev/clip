@@ -4,6 +4,7 @@ author: mooburg
 date: 2023-01-10
 category: dev
 layout: post
+published: false
 ---
 
 ## 섹션1: 시작하기
