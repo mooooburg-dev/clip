@@ -6,7 +6,6 @@ category: page
 layout: post
 ---
 
-Articles about development.  
-개발과 관련된 읽을거리 페이지입니다.  
+articles for frontend developer.
 
 jeongmupark@gmail.com  
