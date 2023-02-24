@@ -1,10 +1,10 @@
 # Configurations
 title: clip.drawyourmind.com
-longtitle: clip.drawyourmind.com
+longtitle: articles for frontend developer
 author: mooburg
 email: jeongmupark@gmail.com
 description: >
-  article about development
+  프론트엔드 개발자 기술 블로그 읽을거리
 
 version: 1.0
 gitbook_version: 3.2.3
