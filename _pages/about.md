@@ -6,6 +6,6 @@ category: page
 layout: post
 ---
 
-articles for frontend developer.
+articles for frontend developers.
 
 jeongmupark@gmail.com  
